@@ -1,3 +1,4 @@
 # LeetCode Problems
 
-1. TwoSum Problem - Easy
+## Easy
+1. TwoSum Problem
