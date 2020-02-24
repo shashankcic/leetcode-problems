@@ -1,6 +1,6 @@
 # LeetCode Problems
 
-Solutions for the Leetcode problems. 
+Solutions for Leetcode problems. 
 
-## Easy
+## Easy Problems
 1. TwoSum Problem
